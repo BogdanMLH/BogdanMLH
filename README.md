@@ -30,13 +30,6 @@ I bridge the gap between complex enterprise code and efficient No-Code/Low-Code 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BogdanMLH&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanMLH&layout=compact&theme=radical&hide_border=true" height="150" alt="languages" />
-</div>
 
 ---
 
