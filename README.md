@@ -6,7 +6,7 @@ I bridge the gap between complex enterprise code and efficient No-Code/Low-Code 
 ---
 
 ### 🚀 What I Do
-* **Automate Business Processes:** Building autonomous agents with n8n & OpenAI.
+* **Automate Business Processes:** Building autonomous agents with n8n & LLM API's.
 * **Full-Stack Development:** Creating modern dashboards with React & Supabase.
 * **Backend Engineering:** Designing robust REST APIs with Java Spring & Docker.
 
