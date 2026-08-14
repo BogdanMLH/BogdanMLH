@@ -22,7 +22,7 @@ I bridge the gap between complex enterprise code and efficient No-Code/Low-Code 
 
 **Automation & AI**
 ![n8n](https://img.shields.io/badge/n8n-%23FF6C37.svg?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6466F1?style=for-the-badge&logo=openrouter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Frontend**
